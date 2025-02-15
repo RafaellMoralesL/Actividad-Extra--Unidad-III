@@ -1,1 +1,17 @@
-# Unidad 1
+
+ódUnidad 1
+Sistema Binario
+El sistema binario es el lenguaje que hablan las computadoras, ya que no entienden las palabras e instrucciones en nuestro lenguaje, si no solo por medio de 0 y 1, o positivo y negativo.
+Cada instrucción que le damos a una computadora, la descompone en código binario (O y 1) para comprenderla y llevarla acabo.
+
+Lógica
+Es la forma en la que podemos determinar si una instrucción o si nuestra propuesta para razonar algo, es válida o no, asi comprendemos mejor como componer nuestros pasos para que sigan un proceso fijo y no cause errores al repetirlo.
+
+Algoritmo
+Son los pasos o instrucciones que se deben seguir para replcar una acción o un proceso para lograr un resultado idéntico, debemos ser cuidadosos al realizar un algoritmo sobre todo cuando se trata de programación, debido que, una computadora no comprende implícitos, asi que cada paso debe ser cuidadosamente específico y claro.
+
+Programación
+Son los pasos o traducción del algoritmo que preparamos para una computadora a lenguaje que comprenda la computadora, normalmente por un lenguaje de programación adaptado, ya que escribir en binario es muy tardado y puede prestarse a muchos errores. Con el código hecho el programa sigue las instrucciones con el fin de conseguir el resultado deseado.
+
+Editores de texto y entornos de desarrollo
+Son programas que facilitan la creación de código para programar, los editores de texto, se utilizan para textos sin formato especificado, ya se para empezar de 0 o editarlos, mientras que los entornos de desarrollo o IDE, son programas que ofrecen diferentes opciones para crear código en distinos lenguajes de programación y probrar el código para analizar errores.

@@ -1,5 +1,5 @@
 
-ódUnidad 1
+Unidad 1
 Sistema Binario
 El sistema binario es el lenguaje que hablan las computadoras, ya que no entienden las palabras e instrucciones en nuestro lenguaje, si no solo por medio de 0 y 1, o positivo y negativo.
 Cada instrucción que le damos a una computadora, la descompone en código binario (O y 1) para comprenderla y llevarla acabo.

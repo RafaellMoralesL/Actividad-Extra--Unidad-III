@@ -1,1 +1,7 @@
-# Unidad3
+Unidad3
+
+Controladores de versiones
+Es un programa que guarda de mejor manera las distintas versiones y provee información de todos los cambios que se realizan en los archivos de cualquier programa o trabajo que se esté llevando a cabo, también facilitando la recuperación de estos archivos.
+Otro de los puntos importantes de los controladores de versiones es que facilitan el trabajo en equipo, ya que todos pueden hacer cambios a un trabajo y hacer pruebas para evitar fallos que comprometan por completo al mismo, y llevar un control para ver si se aceptan dichos cambios o no.
+
+Durante esta unidad, algo que tuve que leer e investigar fue el uso de la consola git, ya que al intentar navegar por las carpetas tuve algunos errores que me dificultaron cambiar de directorios, y como diferenciar un comando de un nombramiento o de alguna otra instrucción que causaban que no hiciera lo que esperaba que hiciera la consola. Fue interesante y fue satisfactorio cuando lo que me planteé hacer después de investigar salió muy fácil y sin errores y considero muy importante el conocimiento de los controladores de versiones, porque si no tendria muchos archivos ocupando espacio y arriesgandome a que por algún error los perdiera. 

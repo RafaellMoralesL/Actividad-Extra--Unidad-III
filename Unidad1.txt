@@ -15,3 +15,5 @@ Son los pasos o traducción del algoritmo que preparamos para una computadora a 
 
 Editores de texto y entornos de desarrollo
 Son programas que facilitan la creación de código para programar, los editores de texto, se utilizan para textos sin formato especificado, ya se para empezar de 0 o editarlos, mientras que los entornos de desarrollo o IDE, son programas que ofrecen diferentes opciones para crear código en distinos lenguajes de programación y probrar el código para analizar errores.
+
+Durante esta unidad, lo que mas se me dificultó fue realizar un algoritmo detallado, ya que estoy acostumbrado a hacer algunas cosas implicitamente, mientra que un algoritmo, inclusive eso que realizo de manera automática, necesita se especificada para que no haya errores. También con el código binario, tuve que prestar muchisima atención ya que mas de una vez me faltaba un dígito o agregaba dígitos extra, sobre todo cuando habia varios 0 seguidos. 

@@ -1,1 +1,16 @@
-# Unidad2
+Unidad2
+
+Variables
+Son datos que pueden cambiar valores conforme el programa avance. Se debe especificar con un nombre para que sea facil acceder a los datos de esa variable.
+
+Tipos de Datos y operadores
+Númericos: Son todos los números que se pueden representar en un rango dentro de un lenguaje de programación, aunque hay algunos lenguajes que separan los enteros de los decimales y algunos no aceptan números negativos.
+Operaciones Númericas: Los lenguajes de programación permiten operaciones de matemática, como la resta, suma, división y multiplicación, sin embargo, las operaciones mas complejas, hay algunos lenguajes que las permiten y otros no.
+
+Estructuras de Control Condicionales
+Permiten modificar en el código para el programa en el cual se coloca un condición que queremos que se cumpla para darle una instrucción diferente al programa.
+
+Estructuras de Control de bucles
+Se utilizan para crear un bucle, es decir, que una instrucción dentro del código se repita, para no tener que colocar la misma instrucción varias veces dentro del código.
+
+Durante esta Unidad, lo que mas se me dificultó fue hacer distinción dentro del código para cuando era un bucle y cuando era una condición, sobre todo en la actividad extra, donde tuve un problema con mi bucle debido a que creaba condiciones que cancelaban el bucle, haciendo que se cerrara el bucle antes de tiempo, y definir también como replicar la instrucción dentro del bucle para que continuara hasta que se cumpliera con mi condición. 
